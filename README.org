@@ -2,9 +2,8 @@
 
 Decimal number parser and formatter package for the Common Lisp language
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tlikonen/cl-decimals   |
-| commit  | f701703  |
-| systems | cl-decimals |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/tlikonen/cl-decimals |
+| commit  | f701703                                     |
+| systems | decimals                                    |
+|---------+---------------------------------------------|
