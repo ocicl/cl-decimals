@@ -4,6 +4,6 @@ Decimal number parser and formatter package for the Common Lisp language
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/tlikonen/cl-decimals |
-| commit  | f701703                                     |
+| commit  | 7b22936                                     |
 | systems | decimals                                    |
 |---------+---------------------------------------------|
